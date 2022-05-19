@@ -7,7 +7,8 @@ __pycache__/
 *.so
 
 # Directories
-data/*
+data/lrs3/*
+data/grid/*
 .idea/*
 
 # Distribution / packaging
